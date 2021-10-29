@@ -1,0 +1,13 @@
+\beamer@sectionintoc {2}{Precap}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Software Architecture}{3}{0}{1}
+\beamer@subsectionintoc {2}{2}{Architecture Description Languages (ADL)}{5}{0}{1}
+\beamer@subsectionintoc {2}{3}{Module Interconnection Languages (MIL) }{6}{0}{1}
+\beamer@sectionintoc {3}{ArchJava Language}{7}{0}{2}
+\beamer@sectionintoc {4}{Key Benefits of ArchJava}{8}{0}{3}
+\beamer@sectionintoc {5}{Language Constructs}{9}{0}{4}
+\beamer@subsectionintoc {5}{1}{Components}{10}{0}{4}
+\beamer@subsectionintoc {5}{2}{Ports}{11}{0}{4}
+\beamer@subsectionintoc {5}{3}{Connections}{12}{0}{4}
+\beamer@sectionintoc {6}{Dynamic Architectures}{15}{0}{5}
+\beamer@sectionintoc {7}{Limitations of ArchJava}{17}{0}{6}
+\beamer@sectionintoc {8}{Evaluation}{18}{0}{7}
